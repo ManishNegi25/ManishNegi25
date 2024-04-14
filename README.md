@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **mern stack and app development**
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtL-m3OPVABFDqBkW3JCTjUS6DLBuwGVMFtR298POqqw&s" alt="">c
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:mansihngei252001@gmail.com</h3>
 <p align="left">
 </p>
 
